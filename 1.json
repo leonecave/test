@@ -1,0 +1,47 @@
+{
+	"name": "Freekey test1",
+	"description": "Freekey test",
+	"image": "https://drive.google.com/file/d/1sW_SoxDLbPuC81kqgR6ns7IpY019GvKj/view?usp=share_link",
+	"attributes": [
+		{
+			"trait_type": "BG",
+			"value": "Hot Pink"
+		},
+		{
+			"trait_type": "BG effect",
+			"value": "None"
+		},
+		{
+			"trait_type": "HAND",
+			"value": "None"
+		},
+		{
+			"trait_type": "BODY",
+			"value": "Body"
+		},
+		{
+			"trait_type": "FACE DECO",
+			"value": "Dark"
+		},
+		{
+			"trait_type": "MOUTH",
+			"value": "Strange's Sly Smile"
+		},
+		{
+			"trait_type": "EYES",
+			"value": "Zenitsu's Surprised Eye"
+		},
+		{
+			"trait_type": "CLOTHES",
+			"value": "None"
+		},
+		{
+			"trait_type": "HEAD",
+			"value": "Zenitsu's Hair"
+		},
+		{
+			"trait_type": "EYEBROW",
+			"value": "None"
+		}
+	]
+}
